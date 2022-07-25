@@ -5,6 +5,7 @@ package Jenkins_feature_branch;
 
 public class Library {
     public boolean someLibraryMethod() {
+        System.out.println("This is feature 3");
         return true;
     }
 }
