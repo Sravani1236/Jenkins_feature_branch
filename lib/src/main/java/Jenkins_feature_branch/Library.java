@@ -6,6 +6,7 @@ package Jenkins_feature_branch;
 public class Library {
     public boolean someLibraryMethod() {
         System.out.println("This is feature 3");
+        System.out.println("This is added feature named as feature 4");
         return true;
     }
 }
